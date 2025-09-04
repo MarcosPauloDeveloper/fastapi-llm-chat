@@ -25,13 +25,13 @@ api/
 routers/        # FastAPI routers
 deps/           # dependency injection (OpenAI client + store)
 adapters/
-openai\_client.py
+openai_client.py
 repositories/
-thread\_store.py
+thread_store.py
 core/
 config.py       # settings via pydantic-settings
 schemas/          # request/response models
-use\_case/         # business logic
+use_case/         # business logic
 main.py           # FastAPI app factory
 
 ````
