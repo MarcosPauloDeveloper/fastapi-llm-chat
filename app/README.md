@@ -54,7 +54,7 @@ main.py           # FastAPI app factory
    cd <repo>
 ```
 
-2. **Create `.env` file**
+2. **Create .env file**
 
    ```env
    OPENAI_API_KEY=sk-...
