@@ -52,7 +52,7 @@ main.py           # FastAPI app factory
    ```bash
    git clone https://github.com/MarcosPauloDeveloper/fastapi-llm-chat.git
    cd <repo>
-````
+```
 
 2. **Create `.env` file**
 
